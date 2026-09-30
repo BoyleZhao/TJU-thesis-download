@@ -1,6 +1,6 @@
 # 天津大学论文平台下载工具
 
-适用于天津大学学位论文阅读页面(https://theses.lib.tju.edu.cn)的用户脚本。打开有权访问的论文后，脚本可尝试逐页加载页面图像，并在浏览器中将其整理导出为 PDF。
+适用于天津大学学位论文阅读页面 (https://theses.lib.tju.edu.cn) 的用户脚本。打开有权访问的论文后，脚本可尝试逐页加载页面图像，并在浏览器中将其整理导出为 PDF。
 
 > **快速安装：**[前往 Greasy Fork 安装脚本](https://greasyfork.org/zh-CN/scripts/598023-tju-thesis-download-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 
